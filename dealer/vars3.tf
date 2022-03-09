@@ -4,9 +4,10 @@ variable "region" {
 }
 variable "bucket" {
     type = string
-    default = "jesuswebbucket1"
+    default = "joseajwebbucket1"
 }
 
 variable "content" {    
     type = string
+    default = "Example"
 }   
